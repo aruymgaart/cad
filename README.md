@@ -1,4 +1,4 @@
-# APPLIED & COMPUTATIONAL MATH <br> CODE EXAMPLES 
+# OPENSCAD <br> PROJECTS 
 
 
 ### Prerequisites
