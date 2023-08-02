@@ -1,6 +1,7 @@
 # OPENSCAD <br> LIBRARY STYLE BOOKCASE 
 
-![alt text](https://github.com/aruymgaart/cad/blob/library_bookcase_36w.png?raw=true)
+![alt text](https://github.com/aruymgaart/cad/openscad_library_style_bookcase/library_bookcase_36w.png?raw=true)
+<img src="/library_bookcase_36w.png" alt="Alt text" title="Library style bookcase">
 
 ### Prerequisites
 
