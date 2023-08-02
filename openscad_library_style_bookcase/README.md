@@ -14,7 +14,9 @@ Give examples
 
 ### Installing
 
-See openscad instructions
+See openscad instructions to install openscad.<br>
+make sure the 2 scad files (lumber.scad, library_bookcase_36w.scad) in this folder are in the same folder on your computer.<br>
+open the file library_bookcase_36w.scad with the openscad software.
 
 
 ## Contributing
